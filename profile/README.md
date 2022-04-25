@@ -11,11 +11,11 @@ Design Group operates as an independent and autonomous operating division within
 For more information, contact us at info@bwdesigngroup.com.
 
 The essential elements of our vision are:
-To Be Sought After By Our Clients For Our Expertise
-A Reputation For Delivering World Class Solutions
-A Business Model Providing Sustained Growth And Value Creation
-Commitment To Personal Growth and Fulfillment of Our Professionals
-Leadership and Strategies That Ensure a Legacy
+- To Be Sought After By Our Clients For Our Expertise
+- A Reputation For Delivering World Class Solutions
+- A Business Model Providing Sustained Growth And Value Creation
+- Commitment To Personal Growth and Fulfillment of Our Professionals
+- Leadership and Strategies That Ensure a Legacy
 
 ### CONTROLTECH AUTOMATION
 ControlTech Automation is a world class electrical equipment manufacturer that provides industrial control and process solutions for packaging, process, facilities, utilities and other industrial applications. ControlTech Automation specializes in the design, manufacture and installation of industrial control and power distribution panels.
