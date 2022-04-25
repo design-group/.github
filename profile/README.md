@@ -1,4 +1,4 @@
-##Our Company
+## Our Company
 
 Design Group operates from 45+ offices in the US and India providing engineering, consulting, and technical services to the world’s leading companies in the Food & Beverage, Life Sciences, Advanced Technology, Industrial, and other market sectors. 
 
