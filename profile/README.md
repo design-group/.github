@@ -1,4 +1,4 @@
-## Our Company
+# Our Company
 
 Design Group operates from 45+ offices in the US and India providing engineering, consulting, and technical services to the world’s leading companies in the Food & Beverage, Life Sciences, Advanced Technology, Industrial, and other market sectors. 
 
@@ -17,8 +17,8 @@ A Business Model Providing Sustained Growth And Value Creation
 Commitment To Personal Growth and Fulfillment of Our Professionals
 Leadership and Strategies That Ensure a Legacy
 
-##### CONTROLTECH AUTOMATION
+### CONTROLTECH AUTOMATION
 ControlTech Automation is a world class electrical equipment manufacturer that provides industrial control and process solutions for packaging, process, facilities, utilities and other industrial applications. ControlTech Automation specializes in the design, manufacture and installation of industrial control and power distribution panels.
 
-##### CADENCE TECHNOLOGIES
+### CADENCE TECHNOLOGIES
 Cadence Technologies provides sanitary equipment, instrumentation, and services to the food, beverage, and pharmaceutical industries. Our mission is to serve our clients by providing high purity process equipment and systems with specialty engineering and strategic consulting to help them succeed in their marketplace. Long-standing, high-volume relationships with our suppliers enable us to pass knowledgeable and cost-effective solutions on to our customers.
